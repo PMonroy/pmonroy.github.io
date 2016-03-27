@@ -94,7 +94,7 @@ blockquote {
   display: table-cell; }
 
 nav#nav-container {
-    background-image: url("color14.png");
+    background-image: url("../img/color14.png");
     background-position: right;
     background-size: cover; 
     background-repeat: no-repeat;
